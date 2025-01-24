@@ -10,8 +10,8 @@
     "Gojo",
     "Anime"
   ],
-  "repository": "https://github.com/Gojo-Bots/Gojo_Satoru",
-  "success_url": "https://t.me/GojoSuperbot",
+  "repository": "https://github.com/aashuxxD/Gojo_Satoru",
+  "success_url": "https://t.me/KunoXroboT",
   "env": {
     "BOT_TOKEN": {
       "description": "Your Telegram bot token, obtained from @BotFather.",
@@ -46,7 +46,7 @@
     "SUPPORT_GROUP": {
       "description": "Your Telegram support group username for user assistance.",
       "required": false,
-      "value": "gojo_bots_network"
+      "value": "College_wali_masti"
     },
     "MESSAGE_DUMP": {
       "description": "Channel where bot will send logs and updates.",
@@ -66,7 +66,7 @@
     "SUPPORT_CHANNEL": {
       "description": "Channel where bot updates will be posted.",
       "required": false,
-      "value": "gojo_bots_network"
+      "value": "Saykkunomusic"
     },
     "SUDO_USERS": {
       "description": "Space-separated list of user IDs to assign as sudo users.",
